@@ -2,12 +2,6 @@
 
 Just some files I'm too lazy to rewrite every time I'm using a new computer or a new account.
 
-If you're lazier than me, from your home you can pull this project after forked it :
-
-	git init 
-	git remote add origin https://github.com/you/my-git-config-files.git
-	git pull origin master
-
 The .gitignore is conveniently whitelist configured so you can add/commit/push what you really want.
 
 ## Auto-completion and PS1 :
